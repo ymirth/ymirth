@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ymirth
 - 👀 I’m interested in C++ and GO
 - 🌱 I’m currently learning concurency, C++ object model and stl's code
-- 💞️ I’m looking to collaborate on some backend programe
+- 💞️ I’m looking to collaborate on some backend programes
 - 📫 How to reach me 
 -     here is my email: 2262782038@qq.com OR ymirth123@gmail.com
 
